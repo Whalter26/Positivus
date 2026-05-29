@@ -22,6 +22,29 @@
 
 ---
 
+## 🖼 Preview
+
+<table width="100%">
+  <tr>
+    <td width="65%" align="center" valign="top">
+      <h3>🖥 Desktop</h3>
+      <img src="./preview-desktop.png" alt="Desktop" width="100%">
+    </td>
+    <td width="35%" align="center" valign="top">
+      <h3>📱 Mobile</h3>
+      <img src="./preview-mobile.png" alt="Mobile" width="100%">
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>🔍 Посмотреть страницу целиком (Full page preview)</summary>
+<br>
+<img src="./preview-desktop-full.png" alt="Full preview" width="100%">
+</details>
+
+---
+
 ## 📁 Структура проекта
 
 - `index.html` — основная страница
@@ -45,16 +68,3 @@
 Проект является учебным и не предназначен для коммерческого использования.
 
 ---
-
-## 🖼 Preview
-
-### 🖥 Desktop
-![Desktop](./preview-desktop.png)
-
-### 📱 Mobile
-![Mobile](./preview-mobile.png)
-
-### Full page
-![Full preview](./preview-desktop-full.png)
-
-
