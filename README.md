@@ -5,6 +5,19 @@
 
 ---
 
+## 🖼 Preview
+
+### 🖥 Desktop
+![Desktop](./preview-desktop.png)
+
+### 📱 Mobile
+![Mobile](./preview-mobile.png)
+
+### Full page
+![Full preview](./preview-desktop-full.png)
+
+---
+
 Вёрстка лендинга **Positivus**, выполненная в процессе обучения фронтенд-разработке.
 
 Данный проект был сверстан после изучения **методологии БЭМ** и **SCSS**.  
