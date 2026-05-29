@@ -1,27 +1,15 @@
 # Positivus
 
-## 🔗 Live Demo
-👉 [https://whalter26.github.io/Positivus/]
-
----
-
-## 🖼 Preview
-
-### 🖥 Desktop
-![Desktop](./preview-desktop.png)
-
-### 📱 Mobile
-![Mobile](./preview-mobile.png)
-
-### Full page
-![Full preview](./preview-desktop-full.png)
-
 ---
 
 Вёрстка лендинга **Positivus**, выполненная в процессе обучения фронтенд-разработке.
 
 Данный проект был сверстан после изучения **методологии БЭМ** и **SCSS**.  
 Вёрстка выполнена по мастер-классу фронтенд-разработчика  **Александра Ламкова** с повторением кода за автором, с целью понимания структуры проекта, организации стилей и закрепления полученных знаний.
+
+
+## 🔗 Live Demo
+👉 [https://whalter26.github.io/Positivus/]
 
 ---
 
@@ -55,3 +43,18 @@
 ## 📌 О проекте
 
 Проект является учебным и не предназначен для коммерческого использования.
+
+---
+
+## 🖼 Preview
+
+### 🖥 Desktop
+![Desktop](./preview-desktop.png)
+
+### 📱 Mobile
+![Mobile](./preview-mobile.png)
+
+### Full page
+![Full preview](./preview-desktop-full.png)
+
+
